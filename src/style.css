@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'allura';
+    src:    url('./allura-v8-latin-regular.woff2') format('woff2'),
+            url('./allura-v8-latin-regular.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'allura';
+    background: url('./image.jpg');
+}
